@@ -345,7 +345,8 @@
 
     .dropdown-menu {
       display: block;
-      position: static;
+      position: relative;
+      top: initial;
       width: 100%;
       background-color: transparent;
       float: none;
